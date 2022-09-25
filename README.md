@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulaapark
 - 👀 I’m interested in database, business systems, UI design, and data analysis
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning full-stack web development!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me www.instagram.com/paulaapark
 
